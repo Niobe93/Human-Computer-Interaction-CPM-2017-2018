@@ -2,7 +2,7 @@
 Subject of the second year of software engineering Oviedo / Asignatura del segundo año de ingeniería del software Oviedo.
 
 Hey there!
-These are my laboratory deliveries which I presented for my evaluation of the subject icluding the final project.
+These are my laboratory deliveries which I presented for my evaluation of the subject including the [final project](https://github.com/Niobe93/Human-Computer-Interaction-CPM-2017-2018/blob/master/ModuloDePracticasUO238096.zip) and some seminars.
 Some of the knowdledge that you can find in here are : <br />
 
 - GUI main elements
