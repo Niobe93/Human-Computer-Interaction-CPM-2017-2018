@@ -1,0 +1,4 @@
+Añadir un html nuevo a la ayuda
+añadir un paquete concreto de oferta
+ciertas entradas no estan disponibles y no se pueden comprar
+cambia el precio por persona oferta--tambien cambia en la factura
